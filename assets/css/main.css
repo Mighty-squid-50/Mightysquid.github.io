@@ -3246,7 +3246,7 @@
 		margin: 0 0 1em 0;
 		/*overflow: hidden; */
 		position: relative;
-		width: 200px;
+		width: 100px;
 	}
 
 		#intro .logo:before {
@@ -3260,13 +3260,13 @@
 			left: 0;
 			position: absolute;
 			top: 0;
-			width: 100%;
+			width: 10%;
 		}
 
 		#intro .logo img {
 			display: block;
 			margin-left: -0.25em;
-			width: 4.5em;
+			width: 200px;
 		}
 
 	#intro header h2 {
